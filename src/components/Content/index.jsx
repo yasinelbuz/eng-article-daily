@@ -1,6 +1,7 @@
 import React from "react";
 import Article from "./Article";
 import Statistics from "./Statistics";
+import SetTheme from "../SideBar";
 
 export default function Content() {
 	return (
