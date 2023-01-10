@@ -6,7 +6,8 @@
 	@apply font-bold;
 }
 
-.AiOutlineClose {
+.AiOutlineClose,
+.HiDotsHorizontal {
 	@apply text-2xl cursor-pointer rounded-full p-2 w-10 h-10 border-2 border-white transition;
 	&:hover {
 		@apply bg-gray-100 border-2 border-gray-200;

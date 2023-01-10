@@ -8,7 +8,7 @@ import Title from "./Title";
 
 export default function SetTheme() {
 	return (
-		<div className="bg-white border-l absolute top-0 right-0 w-[300px] h-full">
+		<div className="bg-white border-l fixed top-0 right-0 w-[300px] h-full overflow-auto">
 			<Title />
 			<div className="p-4">
 				<TextStyle />
