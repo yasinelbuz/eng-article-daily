@@ -8,7 +8,7 @@ export default function Article() {
 					Teknoloji{" "}
 					<small className="text-xl font-normal">- A1</small>
 				</h1>
-				<p className="leading-7 mt-4">
+				<p className="leading-7 mt-4" stye={{ lineHeight: "500px" }}>
 					Technology is an important part of our lives. It helps us
 					communicate with each other, access information, and
 					complete tasks more efficiently. There are many different
