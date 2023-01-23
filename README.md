@@ -4,7 +4,6 @@ _"web application with a different english article every day”_
 
 
 - [Demo](#demo)
-- [What Can You Do?](#what-can-you-do)
 - [Installation](#installation)
 - [Starting project](#starting-project)
 - [Links](#links)
